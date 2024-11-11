@@ -30,6 +30,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=natali1503&layout=compact&theme=transparent&hide_border=true)
 
-## 📫 Свяжитесь со мной
+## 📫 Контакты
 
 [Telegram](https://t.me/NataliaSitnikova)

@@ -17,6 +17,15 @@
 
 ## 🌟 Проекты
 
+- [The wild oasis](https://github.com/natali1503/the-wild-oasis)
+- [Admin dashboard](https://github.com/natali1503/admin_dashboard_app)
+- [Fact Recat Pizza Co](https://github.com/natali1503/fast-react-pizza)
+
+### Хакатоны
+
+- [Game memo](https://github.com/natali1503/hackathon-game-memo)
+- [Забота рядом](https://github.com/natali1503/react-event/tree/main)
+
 ## 📊 GitHub Статистика
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=natali1503&layout=compact&theme=transparent&hide_border=true)

@@ -9,6 +9,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-%230081CB.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -16,9 +17,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 🌟 Проекты
-
-- [The wild oasis](https://github.com/natali1503/the-wild-oasis)
+- [Ad board](https://github.com/natali1503/adBoard)
+- [Care is near](https://github.com/natali1503/careIsNear)
+- [To dos](https://github.com/natali1503/todos)
+- [15th slider game](https://github.com/natali1503/15th-slider-game?tab=readme-ov-file)
 - [Admin dashboard](https://github.com/natali1503/admin_dashboard_app)
+_______
+- [The wild oasis](https://github.com/natali1503/the-wild-oasis)
 - [Fact Recat Pizza Co](https://github.com/natali1503/fast-react-pizza)
 
 ### Хакатоны
